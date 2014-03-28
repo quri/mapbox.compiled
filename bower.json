@@ -1,0 +1,10 @@
+{
+  "name": "mapbox.js compiled",
+  "main": "mapbox.js",
+  "version": "1.6.2",
+  "homepage": "https://github.com/quri/mapbox.compiled",
+  "authors": [ "Mapbox", "Compilation by Quri" ],
+  "description": "Mapbox Javascript API compiled",
+  "keywords": [ "mapbox" ],
+  "license": "See LICENSE.md",
+}
