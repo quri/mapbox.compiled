@@ -6,5 +6,5 @@
   "authors": [ "Mapbox", "Compilation by Quri" ],
   "description": "Mapbox Javascript API compiled",
   "keywords": [ "mapbox" ],
-  "license": "See LICENSE.md",
+  "license": "See LICENSE.md"
 }
